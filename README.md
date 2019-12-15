@@ -1,16 +1,16 @@
-# CMake‚ÅVisualStudio—pƒvƒƒWƒFƒNƒg‚ð‚É‚á‚ñ‚É‚á‚ñ‚·‚éŽÀŒ±
-make.bat ‚ð’@‚­‚ÆbuildƒtƒHƒ‹ƒ_‚ªì‚ç‚ê‚ÄA
-‚»‚Ì’†‚ÅƒvƒƒWƒFƒNƒg‚Ì¶¬‚©‚çƒrƒ‹ƒh‚Ü‚Åˆê‹C’ÊŠÑ‚Å‘–‚é‚Æ‚Å‚·‚æB
+# CMakeã§VisualStudioç”¨ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ã«ã‚ƒã‚“ã«ã‚ƒã‚“ã™ã‚‹å®Ÿé¨“
+make.bat ã‚’å©ãã¨buildãƒ•ã‚©ãƒ«ãƒ€ãŒä½œã‚‰ã‚Œã¦ã€
+ãã®ä¸­ã§ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®ç”Ÿæˆã‹ã‚‰ãƒ“ãƒ«ãƒ‰ã¾ã§ä¸€æ°—é€šè²«ã§èµ°ã‚‹ã¨ã§ã™ã‚ˆã€‚
 
-# ƒvƒƒWƒFƒNƒg\¬
-root
-„¥CMakeLists.txt
-„¤src
-@„¥fuga => fuga.lib
-@„ „¥unyora.cpp
-@b„¤CMakeLists.txt
-@„¥hoge => hoge.lib
-@„ „¥toppiroky.cpp
-@„ „¤CMakeLists.txt
-@„¥main.cpp => test.exe (with fuba.lib, hoge.lib)
-@„¤CMakeLists.txt
+# ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆæ§‹æˆ
+root  
+â”œCMakeLists.txt  
+â””src  
+ã€€â”œfuga => fuga.lib  
+ã€€â”‚â”œunyora.cpp  
+ã€€â”‚â””CMakeLists.txt  
+ã€€â”œhoge => hoge.lib  
+ã€€â”‚â”œtoppiroky.cpp  
+ã€€â”‚â””CMakeLists.txt  
+ã€€â”œmain.cpp => test.exe (with fuba.lib, hoge.lib)  
+ã€€â””CMakeLists.txt  
