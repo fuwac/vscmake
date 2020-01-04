@@ -4,8 +4,8 @@
 using namespace std;
 
 void main(){
-	unyora* a = new unyora();
-	toppiroky* b = new toppiroky();
+	unyora a;
+	toppiroky b;
 
-	cout << a->disp() << " " << b->disp() << endl;
+	cout << a.disp() << " " << b.disp() << endl;
 }

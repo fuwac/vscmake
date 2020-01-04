@@ -7,4 +7,4 @@ include_directories(src/fuga src/hoge)
 # ビルド対象のファイルが置かれてるディレクトリを追加
 add_subdirectory(src/fuga)  # fuga.lib を生成
 add_subdirectory(src/hoge)  # hoge.lib を生成
-add_subdirectory(src)       # test.exe を生成
+add_subdirectory(src)       # nyapon.exe を生成
