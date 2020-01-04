@@ -12,5 +12,5 @@ root
 　├hoge => hoge.lib  
 　│├toppiroky.cpp  
 　│└CMakeLists.txt  
-　├main.cpp => test.exe (with fuba.lib, hoge.lib)  
+　├main.cpp => nyapon.exe (with fuba.lib, hoge.lib)  
 　└CMakeLists.txt  
